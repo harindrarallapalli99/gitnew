@@ -1,2 +1,6 @@
 This is git1
+
 git feature 1.2.3
+
+git feature1.2
+
